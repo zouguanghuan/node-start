@@ -1,0 +1,30 @@
+Arguments: 
+  E:\nodejs\node.exe E:\nodejs\node_global\node_modules\yarn\bin\yarn.js -d
+
+PATH: 
+  E:\app\Administrator\product\11.2.0\dbhome_1\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;D:\Program Files\Java\jdk1.8.0_181\bin;E:\product2020\apache-maven-3.6.3\bin;E:\product2020\mysql-5.7.31-win32\bin;E:\nodejs\;E:\Tortoise\bin;E:\Git\cmd;D:\Program Files\Java\jdk1.8.0_181\bin;D:\Program Files\Bandizip\;D:\Microsoft VS Code\bin;E:\nodejs\node_global;C:\Users\Administrator\AppData\Roaming\npm
+
+Yarn version: 
+  1.22.10
+
+Node version: 
+  12.18.3
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: ENOENT: no such file or directory, copyfile 'C:\Users\Administrator\AppData\Local\Yarn\Cache\v6\npm-inherits-2.0.4-0fa2c64f932917c3433a0ded55363aae37416b7c-integrity\node_modules\inherits\inherits.js' -> 'E:\my-project\node-start\node_modules\send\node_modules\inherits\inherits.js'
+
+npm manifest: 
+  {
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

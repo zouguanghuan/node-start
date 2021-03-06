@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "blueimp-md5": "^2.18.0",
+    "body-parse": "^0.1.0",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "mime": "^2.5.2",
+    "qs": "^6.9.6"
+  }
+}
